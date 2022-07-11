@@ -18,3 +18,7 @@ Today i present you a simple program to do a Core Vehicles in FiveM Automatic.
 - Check if all files stream (.YDR, .YTD, .YFT) in the name of vehicles/stream
 
 ![](https://cdn.discordapp.com/attachments/995991941172961392/995993157219131493/unknown.png)
+
+- When you run the program choose the option and read all information and execute this
+
+- And when it's finish you can show your core in the folder "CoreCreation"
