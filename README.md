@@ -7,3 +7,8 @@ Today i present you a simple program to do a Core Vehicles in FiveM Automatic.
 
 Create a folder where you drag the program
 
+And
+
+You create a folder "AllVehicle" where you drag all Vehicles
+
+![](https://cdn.discordapp.com/attachments/995991941172961392/995991952350781510/unknown.png)
