@@ -10,7 +10,7 @@ def createFolder(directory):
     try:
         if not os.path.exists(directory):
             os.makedirs(directory)
-            print("Creation in run ("+directory+")")
+            print("Create folder ("+directory+")")
     except OSError:
         print ('Error: Creating directory. ' +  directory)
         
